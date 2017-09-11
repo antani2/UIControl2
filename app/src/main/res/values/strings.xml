@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI Control2</string>
+    <string name="login_text">Login:</string>
+    <string name="user_name">Name</string>
+    <string name="password_text">Password:</string>
+    <string name="passu_name">Password</string>
+    <string name="login_button">Login</string>
+</resources>
